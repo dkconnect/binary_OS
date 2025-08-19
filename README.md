@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="logo/binary os.png" alt="Binary OS Logo">
+<img src="logo/binary os.png" alt="Binary OS Logo" width="150" height="150">
 </p>
 
 <p align="center">
